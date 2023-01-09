@@ -33,6 +33,7 @@
 	"type": "module",
 	"dependencies": {
 		"@sanity/client": "^4.0.1",
+		"@sveltejs/adapter-netlify": "^1.0.0",
 		"daisyui": "^2.46.1"
 	}
 }

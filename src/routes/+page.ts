@@ -2,8 +2,8 @@ import sanityClient from '@sanity/client';
 import type { Carousel } from './../types/carousel';
 import type { PageLoad } from './$types';
 const client = sanityClient({
-  projectId: 'ma4z32ps',
-  dataset: 'production',
+  projectId: import.meta.env.VITE_PROJECT_ID,
+  dataset: import.meta.env.VITE_DATASET,
   apiVersion: '2021-10-21',
   useCdn: false
 });
