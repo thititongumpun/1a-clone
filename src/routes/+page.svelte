@@ -28,7 +28,7 @@
 </div>
 
 <div class="divider" />
-<div class="flex flex-wrap md:flex-row justify-around items-end mb-5 mx-auto">
+<!-- <div class="flex flex-wrap md:flex-row justify-around items-end mb-5 mx-auto">
 	<img src="https://www.thaiamadeus.com/THILA/img/tm.jpg" alt="..." class="w-auto object-contain" />
 	<img
 		src="https://www.thaiamadeus.com/THILA/file/mac_team.gif"
@@ -68,4 +68,50 @@
 		alt=""
 		class="w-auto object-scale-down"
 	/>
+</div> -->
+<div class="container flex flex-col items-center justify-between gap-12 px-4 py-16">
+	<div class="grid grid-cols-2 gap-4 sm:grid-cols-4 md:gap-8 items-end">
+		<img
+			src="https://www.thaiamadeus.com/THILA/img/tm.jpg"
+			alt="..."
+			class="w-auto object-contain"
+		/>
+		<img
+			src="https://www.thaiamadeus.com/THILA/file/mac_team.gif"
+			alt="..."
+			class="w-auto object-contain"
+		/>
+		<img
+			src="https://www.thaiamadeus.com/THILA/img/checkmytrip.gif"
+			alt="..."
+			class="w-auto object-contain"
+		/>
+		<img
+			src="https://www.thaiamadeus.com/THILA/img/kb_for_travel_agency.gif"
+			alt="..."
+			class="w-auto object-contain"
+		/>
+	</div>
+	<div class="grid grid-cols-2 gap-4 sm:grid-cols-4 md:gap-8">
+		<img
+			src="https://www.thaiamadeus.com/THILA/img/acb.gif"
+			alt=""
+			class="w-auto object-scale-down"
+		/>
+		<img
+			src="https://www.thaiamadeus.com/THILA/img/abs.gif"
+			alt=""
+			class="w-auto object-scale-down"
+		/>
+		<img
+			src="https://www.thaiamadeus.com/THILA/img/abm.gif"
+			alt=""
+			class="w-auto object-scale-down"
+		/>
+		<img
+			src="https://www.thaiamadeus.com/THILA/img/chil.gif"
+			alt=""
+			class="w-auto object-scale-down"
+		/>
+	</div>
 </div>
